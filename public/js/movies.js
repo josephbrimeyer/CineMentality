@@ -1,3 +1,4 @@
+const movieSearch = require("Moviesearch");
 const omdbKey = 78350918;
 //Search for movie reviews and ratings:
 $("#search-button").on("click", event => {

@@ -29,6 +29,8 @@ Then launch from localhost:9000 in the browser
     
 # Usage
 
+Site can be access by clicking on the following link: https://young-reef-08407.herokuapp.com/
+
 Before you start searching, feel free to head to the sign up page and become a member! Once you're all signed up you'll be free to browse to your heart's content and leave your own reviews. You can use your sign-in in the member's review page whenever you come back. 
 
 ![sign up](https://media.giphy.com/media/f8PIeyIqhDdzLbuXd1/giphy.gif)
